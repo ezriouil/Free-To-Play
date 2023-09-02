@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FreeToPlay</string>
+    <string name="app_name">Free To Play</string>
     <string name="lbl_home">All games</string>
     <string name="lbl_pc_games">Pc games</string>
     <string name="lbl_web_games">Web Browser games</string>
@@ -24,4 +24,10 @@
     <string name="lbl_loading">Loading</string>
     <string name="lbl_search">Search</string>
     <string name="txt_empty_result">Oops...! we couldn\'t find the game</string>
+    <string name="sing_in">Sing In</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="ok">ok</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="full_name">fullName</string>
 </resources>

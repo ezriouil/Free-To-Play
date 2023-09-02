@@ -1,4 +1,4 @@
-package com.dev.freetoplay.ui.theme
+package com.dev.freetoplay.presentation.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.graphics.Color
@@ -9,13 +9,13 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 import com.dev.freetoplay.R
 
-private val Kaiseiopti = FontFamily(
+ val Kaiseiopti = FontFamily(
     Font(R.font.kaiseiopti_regular, FontWeight.W400),
     Font(R.font.kaiseiopti_medium, FontWeight.W500),
     Font(R.font.kaiseiopti_bold, FontWeight.W600),
 )
 
-val KaiseioptiTypography = Typography(
+val STYLE = Typography(
     h1 = TextStyle(
         fontFamily = Kaiseiopti,
         fontWeight = FontWeight.W500,

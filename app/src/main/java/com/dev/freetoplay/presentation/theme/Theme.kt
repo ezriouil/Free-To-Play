@@ -1,4 +1,4 @@
-package com.dev.freetoplay.ui.theme
+package com.dev.freetoplay.presentation.theme
 
 import android.annotation.SuppressLint
 import androidx.compose.foundation.background
@@ -48,7 +48,7 @@ fun FreeToPlayTheme(
 ) {
     MaterialTheme(
         colors = if (darkTheme) DarkThemeColors else LightThemeColors,
-        typography = KaiseioptiTypography,
+        typography = STYLE,
         shapes = AppShapes,
     ) {
         Box(
