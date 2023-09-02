@@ -1,4 +1,4 @@
-package com.dev.freetoplay.presentation.activity
+package com.ezriouil.freetoplay.presentation.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -9,9 +9,9 @@ import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.navigation.compose.rememberNavController
-import com.dev.freetoplay.presentation.screen.Index
-import com.dev.freetoplay.presentation.theme.FreeToPlayTheme
-import com.dev.freetoplay.presentation.view_model.MainViewModel
+import com.ezriouil.freetoplay.presentation.screen.Index
+import com.ezriouil.freetoplay.presentation.theme.FreeToPlayTheme
+import com.ezriouil.freetoplay.presentation.view_model.MainViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch
 

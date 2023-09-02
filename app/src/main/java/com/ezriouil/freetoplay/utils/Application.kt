@@ -1,4 +1,4 @@
-package com.dev.freetoplay.utils
+package com.ezriouil.freetoplay.utils
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

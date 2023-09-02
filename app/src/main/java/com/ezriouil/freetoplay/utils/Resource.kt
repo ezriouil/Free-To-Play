@@ -1,4 +1,4 @@
-package com.dev.freetoplay.utils
+package com.ezriouil.freetoplay.utils
 
 sealed class Resource<out T> {
     data class Success<T>(val data: T) : Resource<T>()

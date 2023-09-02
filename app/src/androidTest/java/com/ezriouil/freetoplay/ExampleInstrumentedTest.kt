@@ -1,4 +1,4 @@
-package com.dev.freetoplay
+package com.ezriouil.freetoplay
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

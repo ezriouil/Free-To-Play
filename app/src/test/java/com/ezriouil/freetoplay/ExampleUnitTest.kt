@@ -1,4 +1,4 @@
-package com.dev.freetoplay
+package com.ezriouil.freetoplay
 
 import org.junit.Test
 
